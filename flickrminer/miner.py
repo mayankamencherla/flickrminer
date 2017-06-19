@@ -33,7 +33,7 @@ class Miner:
         # Calling helper method to save photos
         self.save_tag_photos(path, photos)
 
-    def save_tag_photos(self, path, photos)
+    def save_tag_photos(self, path, photos):
         # Save each image in the respective directory
         for photo in photos:
             try:

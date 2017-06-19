@@ -8,6 +8,5 @@ setup(
     author="mayankamencherla",
     author_email="mayankamencherla24@gmail.com",
     license="MIT",
-    packages=["os", "flickrapi", "urllib", "pillow", "time"],
-
+    packages=[],
 )
